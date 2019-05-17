@@ -1,5 +1,6 @@
 # Lerna Monorepo Article (Starter)
-The accompanying starter project for the Lerna Monorepo article here TODO: add link
+The accompanying starter project for the Lerna Monorepo article here 
+Link: https://codeburst.io/develop-and-deploy-your-own-react-monorepo-app-in-under-2-hours-using-lerna-travis-and-now-2b140d647238
 
 The blog post is a tutorial that will get you familiar with the whys and hows of using a monorepo.
 
